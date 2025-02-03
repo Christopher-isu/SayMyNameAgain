@@ -1,7 +1,7 @@
 ﻿'ChristopherZ
 'Spring 2025
 'RCET2265
-'Operators Example
+'Say my name again
 'https://github.com/Christopher-isu/SayMyNameAgain.git
 
 Option Explicit On 'forces all variables to be declared
